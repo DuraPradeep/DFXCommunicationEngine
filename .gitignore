@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DFX.DUROCONNECT.COMM.BAL/bin/Debug/net8.0
+/DFX.DUROCONNECT.COMM.BAL/obj
+/DFX.DUROCONNECT.COMM.COMMON/bin/Debug/net8.0
+/DFX.DUROCONNECT.COMM.COMMON/obj
+/DFX.DUROCONNECT.COMM.DAL/bin/Debug/net8.0
+/DFX.DUROCONNECT.COMM.DAL/obj
+/DFX.DUROCONNECT.COMM.ENTITIES/bin/Debug/net8.0
+/DFX.DUROCONNECT.COMM.ENTITIES/obj/Debug/net8.0
+/DFX.DUROCONNECT.COMM.ENTITIES/obj
+/DFX.DUROCONNECT.COMMUNICATION/bin/Debug/net8.0
+/DFX.DUROCONNECT.COMMUNICATION/obj
+/DFX.DUROCONNECT.COMMUNICATION.API/bin/Debug/net8.0
+/DFX.DUROCONNECT.COMMUNICATION.API/obj
+/.vs/DFX.DUROCONNECT.COMMUNICATION/FileContentIndex
+/.vs/DFX.DUROCONNECT.COMMUNICATION/v17
+/.vs/DFX.DUROCONNECT.COMMUNICATION/DesignTimeBuild
+/.vs/DFX.DUROCONNECT.COMMUNICATION/config/applicationhost.config
